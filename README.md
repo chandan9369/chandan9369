@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently doing Competitive Programming and learning Web technologies.
 - 👯 I’m also pretty much interested in field of Machine Learning and AI.
-- 🥅 I have solved 400+ questions on [LeetCode](https://leetcode.com/chandan93/).
+- 🥅 I have solved 450+ questions on [LeetCode](https://leetcode.com/chandan93/).
 - 🥅 I have 3 🌟🌟🌟 on [CodeChef](https://www.codechef.com/users/chandan9369) and [LeetCode](https://leetcode.com/chandan93/).
 - 🥇 I have 1st rank from my college on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/chandankeshari93/practice/).
 - ⚡ Fun fact: I love to watch cricket and solve problems.
