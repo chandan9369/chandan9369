@@ -12,7 +12,7 @@
   I have been learning coding for 1 and a half years and deeping dive into the field of web development I am also pretty much interested in the field of machine learning and also I am a geek who enjoys solving problems
   
   *   🌍  I'm based in India
-  *   🖥️  See my portfolio at [My Portfolio](http://linktr.ee/Chandan93)
+  *   🖥️  See my portfolio at [My Portfolio]([http://linktr.ee/Chandan93](https://chandan-portfolio-v1.netlify.app/)
   *   ✉️  You can contact me at [chandankeshari93@gmail.com](mailto:chandankeshari93@gmail.com)
   *   🧠  I'm learning JavaScript and its framework
   *   🤝  I'm open to collaborating on web development projects.
