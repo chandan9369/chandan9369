@@ -15,7 +15,7 @@
 -  👯 I’m also exploring field of Machine Learning and AI.
 -  🥅 I have solved 1500+ questions accross various plateform:
    -  [LeetCode](https://leetcode.com/chandan93/).
-   -  🥅 I have 3 🌟🌟🌟 on [CodeChef](https://www.codechef.com/users/chandan9369)
+   -  🥅 I have max rating of 1755 on LeetCode & 3 🌟🌟🌟 on [CodeChef](https://www.codechef.com/users/chandan9369)
    -  [GeeksForGeeks](https://auth.geeksforgeeks.org/user/chandankeshari93/practice/).
 
 *  🌍  I'm based in India
