@@ -6,7 +6,7 @@
   Hi 👋 My name is Chandan Keshari
   ================================
   
-  Aspiring AI & Backend Developer
+  Knight@Leetcode || Aspiring AI & Backend Developer
   ---------------------------------
   
 ## About
