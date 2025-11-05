@@ -1,173 +1,107 @@
 <p align="center">
-    <img width="50%" height="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="175px"/>
-  </p>
-  
-  
-  Hi 👋 My name is Chandan Keshari
-  ================================
-  
-  Knight@Leetcode || Aspiring AI & Backend Developer
-  ---------------------------------
-  
-## About
+  <img width="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
--  🌱 I’m currently doing Competitive Programming and learning backend engineering.
--  👯 I’m also exploring field of Machine Learning and AI.
--  🥅 I have solved 1500+ questions accross various plateform:
-   -  [LeetCode](https://leetcode.com/chandan93/).
-   -  🥅 I have max rating of 1866 on LeetCode & 3 🌟🌟🌟 on [CodeChef](https://www.codechef.com/users/chandan9369)
-   -  [GeeksForGeeks](https://auth.geeksforgeeks.org/user/chandankeshari93/practice/).
+<h1 align="center">Hi 👋, I'm Chandan Keshari</h1>
+<h3 align="center">Knight @LeetCode | AI & Backend Developer | M.Tech @IIT Bhubaneswar</h3>
 
-*  🌍  I'm based in India
-*  🖥️  See my portfolio at [My Portfolio](https://chandan-portfolio-v1.netlify.app/)
-*  ✉️  You can contact me at [chandankeshari93@gmail.com](mailto:chandankeshari93@gmail.com)
-*  🧠  I'm learning JavaScript and its framework
-*  🤝  I'm open to collaborating on web development projects.
+---
 
-<a href="https://www.twitter.com/shaungChii" target="_blank" rel="noreferrer"><img
-                    src="https://img.shields.io/twitter/follow/shaungChii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-                  /></a>
+### 🚀 About Me
 
-### Skills
+- 🎓 I'm pursuing **M.Tech in Computer Science** at **IIT Bhubaneswar (2024–2026)** with a **GPA of 8.41/10.0**.  
+- 🎯 Former **B.Tech CSE** student from **University of Allahabad** with **9.2 GPA**.  
+- 💻 I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **Backend Engineering**.  
+- 💡 I’ve solved **1500+ problems** across platforms like LeetCode, CodeChef, and GFG.  
+- 🧠 Currently exploring **Deep Learning, NLP, and Scalable Systems Design**.  
+- 🌐 Check out my portfolio: [My Portfolio](https://chandan-portfolio-v1.netlify.app/)  
+- 📫 Reach me at: [chandankeshari93@gmail.com](mailto:chandankeshari93@gmail.com)
 
-  <p align="left">
-    <a
-      href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
-      target="_blank"
-      rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
-        width="36"
-        height="36"
-        alt="C"
-    /></a>
-    <a
-      href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
-      target="_blank"
-      rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
-        width="36"
-        height="36"
-        alt="C++"
-    /></a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-        width="36"
-        height="36"
-        alt="Javascript"
-    /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-        width="36"
-        height="36"
-        alt="Python"
-    /></a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-      target="_blank"
-      rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-        width="36"
-        height="36"
-        alt="HTML5"
-    /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-        width="36"
-        height="36"
-        alt="CSS3"
-    /></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-        width="36"
-        height="36"
-        alt="TailwindCSS"
-    /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
-        width="36"
-        height="36"
-        alt="Bootstrap"
-    /></a>
-  </p>
-  
-  ### Socials
-  
-  <p align="left">
-    <a
-      href="https://www.facebook.com/profile.php?id=100080697331821"
-      target="_blank"
-      rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-        width="32"
-        height="32"
-      />
-    </a>
-    <!-- <a href="https://www.github.com/chandan9369" target="_blank" rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
-        width="32"
-        height="32"
-    /></a> -->
-    <a href="https://@chandan93" target="_blank" rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg"
-        width="32"
-        height="32"
-    /></a>
-    <a
-      href="http://www.instagram.com/bunny_he_or_him/"
-      target="_blank"
-      rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-        width="32"
-        height="32"
-    /></a>
-    <a
-      href="https://www.linkedin.com/in/chandan-keshari93/"
-      target="_blank"
-      rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-        width="32"
-        height="32"
-    /></a>
-    <a href="https://www.twitter.com/shaungChii" target="_blank" rel="noreferrer"
-      ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-        width="32"
-        height="32"
-    /></a>
-  </p>
-  
-  ### Badges
-  
-  <b>My GitHub Stats</b>
-  
-  <a
-                        href="http://www.github.com/chandan9369"><img src="https://github-readme-stats.vercel.app/api?username=chandan9369&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="chandan9369's GitHub stats" />
-</a>
+---
 
-<!-- <a href="http://www.github.com/chandan9369"><img
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=chandan9369&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a> -->
+### 🧠 Skills
 
-<!-- <a
-                        href="http://www.github.com/chandan9369"><img src="https://activity-graph.herokuapp.com/graph?username=chandan9369&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+#### 💻 Programming Languages
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-<a href="https://github.com/chandan9369" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9369&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+#### ⚙️ Frameworks & Tools
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
 
-  <!-- <b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/chandan9369/Rock-Paper-Sccissors" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan9369&repo=Rock-Paper-Sccissors&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/chandan9369/Latest-News-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan9369&repo=Latest-News-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-   -->
+#### 🧩 Areas of Expertise
+- Machine Learning & Deep Learning  
+- Computer Vision & NLP  
+- Backend Development (MERN / Flask)  
+- Data Structures & Algorithms  
+- Software Engineering & Cloud Computing  
+
+---
+
+### 🧪 Projects
+
+#### 🧠 Non-Contrastive Unsupervised Learning of Physiological Signals from Video *(2025 – Present)*
+- Developed a **non-contrastive rPPG model** for physiological signal learning using **PyTorch & OpenCV**.
+- Designed custom loss functions to stabilize model training across diverse datasets.
+
+#### 🧬 Brain Tumor Detection App *(2025 – Present)*
+- Built a **CNN model** for brain MRI classification with **Streamlit** interface.
+- Enhanced model performance through **data augmentation, dropout, and early stopping**.
+
+#### 🖼️ Image Captioning (CNN + LSTM)
+- Combined **CNN** (feature extraction) and **LSTM** (sequence generation) for automatic image captions.  
+- Trained on **Flickr8k dataset**, achieving strong **BLEU scores** and real-time inference in Streamlit.
+
+#### 😄 Emotion Detection using NLP
+- Developed text-based classifier detecting 6 emotions: *Joy, Fear, Anger, Love, Sadness, Surprise*.
+- Compared **TF-IDF ML models** with fine-tuned **LSTM (Keras/TensorFlow)** for best performance.
+
+#### ⚡ Parallel Merge Sort – Multithreaded C++ Algorithm
+- Implemented **parallel merge sort** using `std::thread`, achieving **10× speedup** on 8-core systems.
+
+#### 🍔 Tomato – MERN Food Ordering App
+- Full-stack **MERN** app with **JWT authentication, Stripe payments, and admin dashboards**.
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Knight Badge** on [LeetCode](https://leetcode.com/chandan93) (Max Rating: 1866)  
+- 🧮 Solved **1500+ DSA Problems** across LeetCode, CodeChef & GFG  
+- 🥈 **Rank 292** in LeetCode Biweekly Contest 164 (33,951 participants)  
+- 🧑‍🏫 Founded **E-code Coding Club**, mentoring peers and organizing 5+ coding competitions  
+- 🧾 Certified in **HackerRank Problem Solving (Basic & Intermediate)**  
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/chandankeshari/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/bunny_he_or_him/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://leetcode.com/chandan93/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="32" height="32" /></a>
+  <a href="https://github.com/chandan9369" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandan9369&show_icons=true&theme=tokyonight" alt="Chandan's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9369&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+⭐ *“Code. Create. Contribute. Repeat.”*  
