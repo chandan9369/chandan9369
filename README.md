@@ -3,105 +3,101 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandan Keshari</h1>
-<h3 align="center">Knight @LeetCode | AI & Backend Developer | M.Tech @IIT Bhubaneswar</h3>
+<h3 align="center">SWE Intern @Ittiam Systems | Knight @LeetCode| M.Tech CSE @IIT Bhubaneswar</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 I'm pursuing **M.Tech in Computer Science** at **IIT Bhubaneswar (2024–2026)** with a **GPA of 8.41/10.0**.  
-- 🎯 Former **B.Tech CSE** student from **University of Allahabad** with **9.2 GPA**.  
-- 💻 I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **Backend Engineering**.  
-- 💡 I’ve solved **1500+ problems** across platforms like LeetCode, CodeChef, and GFG.  
-- 🧠 Currently exploring **Deep Learning, NLP, and Scalable Systems Design**.  
-- 🌐 Check out my portfolio: [My Portfolio](https://chandan-portfolio-v1.netlify.app/)  
-- 📫 Reach me at: [chandankeshari93@gmail.com](mailto:chandankeshari93@gmail.com)
+- 🎓 Pursuing **M.Tech in Computer Science** at **IIT Bhubaneswar** (2024–2026) | **CGPA: 8.59/10.0**
+- 💼 **Software Engineering Intern** at **Ittiam Systems** working on Android Security
+- 🎯 **B.Tech CSE** from **University of Allahabad** | **CGPA: 9.15/10.0**
+- 💻 Passionate about **AI/ML**, **Backend Engineering**, and **Scalable Systems**
+- 🏆 **LeetCode Knight** with max rating **1895** | Solved **1500+ DSA problems**
+- 🔬 Research focus: **Deep Learning**, **Computer Vision**, **NLP**, and **Android Security**
+- 🌐 Portfolio: [chandan-portfolio-v1.netlify.app](https://chandan-portfolio-v1.netlify.app/)
 
 ---
 
-### 🧠 Skills
+### 💼 Work Experience
 
-#### 💻 Programming Languages
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+**Software Engineering Intern** @ [Ittiam Systems](https://www.ittiam.com/) *(Jan 2026 – Present)*
+- Developing Advanced Security Test Suite (STS) for Android vulnerability detection and triaging
+- Conducting in-depth AOSP module analysis using C/C++, OOP concepts, and smart pointers
+- Implementing fuzzing techniques and sanitizers for comprehensive vulnerability assessment
 
-#### ⚙️ Frameworks & Tools
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-
-#### 🧩 Areas of Expertise
-- Machine Learning & Deep Learning  
-- Computer Vision & NLP  
-- Backend Development (MERN / Flask)  
-- Data Structures & Algorithms  
-- Software Engineering & Cloud Computing  
+**Content Editor** @ Scaler Topics *(May 2022 – Apr 2024)*
+- Edited technical content across programming topics ensuring clarity and accuracy
+- Enhanced documentation structure to improve learner engagement
 
 ---
 
-### 🧪 Projects
+### 🛠️ Technical Skills
 
-#### 🧠 Non-Contrastive Unsupervised Learning of Physiological Signals from Video *(2025 – Present)*
-- Developed a **non-contrastive rPPG model** for physiological signal learning using **PyTorch & OpenCV**.
-- Designed custom loss functions to stabilize model training across diverse datasets.
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-#### 🧬 Brain Tumor Detection App *(2025 – Present)*
-- Built a **CNN model** for brain MRI classification with **Streamlit** interface.
-- Enhanced model performance through **data augmentation, dropout, and early stopping**.
+**AI/ML & Data Science**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-#### 🖼️ Image Captioning (CNN + LSTM)
-- Combined **CNN** (feature extraction) and **LSTM** (sequence generation) for automatic image captions.  
-- Trained on **Flickr8k dataset**, achieving strong **BLEU scores** and real-time inference in Streamlit.
+**Web Development**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-#### 😄 Emotion Detection using NLP
-- Developed text-based classifier detecting 6 emotions: *Joy, Fear, Anger, Love, Sadness, Surprise*.
-- Compared **TF-IDF ML models** with fine-tuned **LSTM (Keras/TensorFlow)** for best performance.
+**Tools & Technologies**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-#### ⚡ Parallel Merge Sort – Multithreaded C++ Algorithm
-- Implemented **parallel merge sort** using `std::thread`, achieving **10× speedup** on 8-core systems.
+---
 
-#### 🍔 Tomato – MERN Food Ordering App
-- Full-stack **MERN** app with **JWT authentication, Stripe payments, and admin dashboards**.
+### 🔬 Featured Projects
+
+#### 🧠 [Non-Contrastive Unsupervised Learning of Physiological Signals](https://github.com/chandan9369)
+Developing a non-contrastive rPPG model for physiological signal learning using PyTorch & OpenCV with custom loss functions for stabilized training across diverse datasets.
+
+#### 🍔 [Tomato – Full Stack Food Ordering Platform](https://github.com/chandan9369)
+MERN stack application with JWT authentication, Stripe payment integration, and separate User/Admin panels. Features RESTful APIs, Redux state management, and responsive UI.
+
+#### 💬 [ChatterBox – Real-Time Chat Application](https://github.com/chandan9369)
+Real-time messaging app using MERN + Socket.IO with live presence tracking, JWT authentication, Cloudinary integration, and multiple theme support.
+
+#### 🧬 [Brain Tumor Detection](https://github.com/chandan9369)
+CNN-based brain MRI classification with Streamlit interface. Enhanced performance through data augmentation, dropout, and early stopping techniques.
+
+#### 🖼️ [Image Captioning (CNN + LSTM)](https://github.com/chandan9369)
+Automated image caption generation combining CNN for feature extraction and LSTM for sequence generation. Trained on Flickr8k dataset with strong BLEU scores.
+
+#### 😄 [Emotion Detection using NLP](https://github.com/chandan9369)
+Text-based emotion classifier detecting 6 emotions using TF-IDF and fine-tuned LSTM models with Keras/TensorFlow.
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **Knight Badge** on [LeetCode](https://leetcode.com/chandan93) (Max Rating: 1866)  
-- 🧮 Solved **1500+ DSA Problems** across LeetCode, CodeChef & GFG  
-- 🥈 **Rank 292** in LeetCode Biweekly Contest 164 (33,951 participants)  
-- 🧑‍🏫 Founded **E-code Coding Club**, mentoring peers and organizing 5+ coding competitions  
-- 🧾 Certified in **HackerRank Problem Solving (Basic & Intermediate)**  
+- 🥇 **Knight Badge** on LeetCode | Max Rating: **1895**
+- 🧮 Solved **1500+ DSA Problems** across LeetCode, CodeChef & GeeksforGeeks
+- 🥈 **Rank 292** in LeetCode Biweekly Contest 164 (33,951 participants)
+- 🧑‍🏫 Founded **E-code Coding Club** – Organized 5+ coding competitions
+- 📜 **HackerRank Certified** in Problem Solving (Basic & Intermediate)
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/chandankeshari/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.instagram.com/bunny_he_or_him/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://leetcode.com/chandan93/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="32" height="32" /></a>
-  <a href="https://github.com/chandan9369" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
+📈 LeetCode Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandan9369&show_icons=true&theme=tokyonight" alt="Chandan's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9369&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/chandan93?theme=dark&font=Sora&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ---
-
 ⭐ *“Code. Create. Contribute. Repeat.”*  
